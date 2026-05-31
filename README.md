@@ -58,11 +58,6 @@ Console application built in **C#** to practice object-oriented programming and 
 
 **What it shows:** domain modeling, encapsulation, inheritance, polymorphism, game state control and rule validation.
 
-### Sales API / MVC Project
-Backend project using **ASP.NET Core MVC**, **Entity Framework Core** and **MySQL**.
-
-**What it shows:** CRUD operations, business rules, data persistence and maintenance-oriented development.
-
 ---
 
 ## What I am looking for
