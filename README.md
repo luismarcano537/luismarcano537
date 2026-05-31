@@ -1,57 +1,92 @@
+<div align="center">
+
 # Luis Marcano
 
-**Desarrollador Full Stack .NET Jr**  
-C# · ASP.NET Core/MVC · APIs REST · Entity Framework · PostgreSQL · SQL Server · JavaScript
+### Junior Full Stack .NET Developer
 
-Soy desarrollador .NET con experiencia en mantenimiento, evolución y refactorización de sistemas web reales. Trabajo principalmente con C#, ASP.NET MVC/Core, JavaScript, Entity Framework, PostgreSQL y APIs REST.
+Building backend-focused web applications with **C#**, **ASP.NET Core**, **REST APIs**, **Entity Framework**, **PostgreSQL** and **SQL Server**.
 
-Antes de enfocarme en desarrollo, trabajé en soporte e infraestructura de TI. Eso me dio una visión práctica de producción, estabilidad, incidentes, usuarios finales y operación de sistemas críticos. Hoy uso esa base para construir software más mantenible, confiable y orientado al negocio.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Marcano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-marcano537/)
+[![Email](https://img.shields.io/badge/Email-luissilvam537%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luissilvam537@gmail.com)
+[![Location](https://img.shields.io/badge/Open%20to-Colombia%20%7C%20Remote-2EA44F?style=for-the-badge)](#)
 
-## En qué estoy enfocado ahora
+</div>
 
-- Consolidar fundamentos sólidos de backend con .NET y C#.
-- Construir proyectos completos con autenticación, base de datos, Docker, documentación y deploy.
-- Mejorar arquitectura, separación de responsabilidades, pruebas y buenas prácticas.
-- Buscar oportunidades remotas o en Colombia como Backend .NET / Full Stack .NET Developer.
+---
 
-## Stack principal
+## About me
 
-**Backend:** C#, .NET, ASP.NET Core, ASP.NET MVC, Web API, Entity Framework Core, LINQ, Dapper  
-**Frontend:** JavaScript, HTML, CSS, Bootstrap, AJAX, Fetch/Axios  
-**Base de datos:** PostgreSQL, SQL Server, MySQL, SQL, migrations, optimización de consultas  
-**Herramientas:** Git, GitHub, GitLab, Docker, Postman, Visual Studio, Rider, VS Code  
-**Prácticas:** REST APIs, Clean Code, SOLID, refactorización, mantenimiento de sistemas legados
+I am a **Junior Full Stack .NET Developer** with experience maintaining and improving real web systems using **ASP.NET MVC/Core**, **C#**, **JavaScript**, **Entity Framework**, **PostgreSQL** and **REST APIs**.
 
-## Proyectos destacados
+My background in **IT Support and Infrastructure** helps me think beyond code: production stability, troubleshooting, user impact, monitoring and maintainability matter.
+
+Currently focused on growing as a **Backend .NET Developer**, building complete projects with authentication, databases, Docker, clean architecture practices and solid documentation.
+
+---
+
+## Tech stack
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## Featured work
 
 ### Personal Finance Manager
-Aplicación full stack de gestión financiera personal con ASP.NET Core, PostgreSQL, Docker y autenticación JWT.
+Backend-focused finance management application built with **ASP.NET Core**, **PostgreSQL**, **Docker**, **Entity Framework Core** and **JWT authentication**.
 
-**Enfoque técnico:** arquitectura por capas, autenticación, endpoints protegidos, Entity Framework Core, PostgreSQL, Docker y evolución incremental por cards.
+**What it shows:** API design, layered architecture, authentication, protected endpoints, database modeling and incremental product development.
 
-### API de Ventas - ASP.NET Core MVC
-Proyecto backend para sistema de ventas, con endpoints, reglas de negocio, persistencia de datos y organización del código en arquitectura MVC.
+### Chess Console App
+Console application built in **C#** to practice object-oriented programming and complex business rules.
 
-**Enfoque técnico:** C#, .NET 8, ASP.NET Core MVC, Entity Framework Core, MySQL y mantenimiento de funcionalidades.
+**What it shows:** domain modeling, encapsulation, inheritance, polymorphism, game state control and rule validation.
 
-### Chess Console App - C#
-Aplicación console enfocada en programación orientada a objetos, modelado de dominio y reglas complejas de negocio.
+### Sales API / MVC Project
+Backend project using **ASP.NET Core MVC**, **Entity Framework Core** and **MySQL**.
 
-**Enfoque técnico:** encapsulamiento, herencia, polimorfismo, colecciones, validaciones de movimientos y control de estado del juego.
+**What it shows:** CRUD operations, business rules, data persistence and maintenance-oriented development.
 
-## Background adicional
+---
 
-También tengo experiencia en soporte e infraestructura de TI, incluyendo análisis de incidentes, monitoreo, gestión de accesos, ambientes corporativos, Microsoft 365, Active Directory, ServiceNow, Jira, Zabbix y Grafana.
+## What I am looking for
 
-Este background no es mi foco principal, pero fortalece mi perfil como desarrollador porque entiendo el impacto real del software en producción.
+I am open to opportunities as a:
 
-## Idiomas
+- **Backend .NET Developer**
+- **Full Stack .NET Developer**
+- **Junior Software Developer**
 
-- Español: nativo
-- Portugués: fluido
-- Inglés: técnico / intermedio
+Preferably remote or based in **Colombia / LATAM**.
 
-## Contacto
+---
 
-- LinkedIn: https://www.linkedin.com/in/luis-marcano537/
-- Email: luissilvam537@gmail.com
+## Languages
+
+- Spanish: Native
+- Portuguese: Fluent
+- English: Technical / Intermediate
+
+---
+
+<div align="center">
+
+**Building consistently. Improving deliberately. Focused on becoming a strong .NET developer.**
+
+</div>
