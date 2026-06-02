@@ -43,33 +43,6 @@ Currently focused on growing as a **Backend .NET Developer**, building complete 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-
----
-
-## Featured work
-
-### Personal Finance Manager
-Backend-focused finance management application built with **ASP.NET Core**, **PostgreSQL**, **Docker**, **Entity Framework Core** and **JWT authentication**.
-
-**What it shows:** API design, layered architecture, authentication, protected endpoints, database modeling and incremental product development.
-
-### Chess Console App
-Console application built in **C#** to practice object-oriented programming and complex business rules.
-
-**What it shows:** domain modeling, encapsulation, inheritance, polymorphism, game state control and rule validation.
-
----
-
-## What I am looking for
-
-I am open to opportunities as a:
-
-- **Backend .NET Developer**
-- **Full Stack .NET Developer**
-- **Junior Software Developer**
-
-Preferably remote or based in **Colombia / LATAM**.
-
 ---
 
 ## Languages
