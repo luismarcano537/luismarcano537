@@ -8,7 +8,7 @@ Building backend-focused web applications with **C#**, **ASP.NET Core**, **REST 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Marcano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-marcano537/)
 [![Email](https://img.shields.io/badge/Email-luissilvam537%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luissilvam537@gmail.com)
-[![Location](https://img.shields.io/badge/Open%20to-Colombia%20%7C%20Remote-2EA44F?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/Open%20to-LATAM%20%7C%20Remote-2EA44F?style=for-the-badge)](#)
 
 </div>
 
